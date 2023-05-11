@@ -1,0 +1,96 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+/* header section start */
+.navbar-nav {
+  padding-left: 400px;
+}
+header{
+  padding: 10px 0px;
+}
+header img{
+  width: 70px;
+}
+header .header-menu {
+  margin-left: 19px;
+}
+/* header section end */
+
+/* Banner section start */
+.bg-color{
+  background-color: #f9f9ff;
+}
+.banner-section h1{
+  font-size: 50px;
+}
+.banner-section .banner-text {
+  margin: 182px 0px;
+}
+.btn-banner{
+ background-color: rgb(131, 143, 255);
+ color: #ffffff;
+ font-weight: 500;
+ transition: .4s;
+}
+.banner-section .banner-img img{
+  width: 500px;
+}
+
+/* Banner section end */
+
+/* About me section start */
+.about-section{
+  margin: 30px 0px;
+}
+.about-section .about-text{
+  margin-left: 90px;
+}
+/* About me section end */
+
+
+/* Number Counter Setion Start */
+.number-counter-section{
+  background-color: rgb(132, 144, 255);
+  color: #ffffff;
+}
+.app-plan-section .card-title {
+  width: 120px;
+  height: 120px;
+  padding-top: 34px;
+  margin-left: 99px;
+  border-radius: 50%;
+}
+.app-plan-btn{
+  border:1px solid rgb(132, 144, 255);
+  color:rgb(132, 144, 255);
+  border-radius: 5px;
+  box-shadow: 0px 0px 15px rgba(132, 144, 255, 0.384);
+  transition: .4s;
+}
+.app-plan-btn:hover{
+ background-color:rgb(132, 144, 255);
+ color: #ffffff;
+}
+/* Number Counter Setion end */
+
+/* our teem section start */
+.img-card-top {
+  width: 120px;
+  margin-bottom: -39px;
+}
+.teem-btn{
+  transition: .4s;
+}
+.teem-btn:hover{
+background-color:rgb(132, 144, 255);
+ color: #ffffff;
+}
+/* our teem section end */
+
+/* footer section */
+footer{
+  background-color: rgb(4, 9, 30);
+}
+/* footer section */

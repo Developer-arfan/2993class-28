@@ -1,0 +1,72 @@
+@media all and (max-width:1199px){
+  .banner-section .col-xl-6{
+    width: 49% !important;
+  }
+  .app-plan-section .card-title {
+    margin-left: 65px;
+  }
+  .app-plan-section .card-text{
+   font-size: 18px !important;
+  }
+    
+}
+@media all and (max-width:991px){
+  .about-section h1{
+    font-size: 35px;
+  }
+  .about-section p{
+    font-size: 15px;
+  }
+  .about-section .col-md-5{
+   margin-top:95px;
+   padding: 0px;
+  }
+  .app-plan-section .card-title {
+    width: 90px;
+    height: 90px;
+    padding-top: 23px;
+    margin-left: 40px;
+    border-radius: 50%;
+  }
+  .app-plan-titel h1{
+    font-size: 30px !important;
+  }
+  .app-plan-titel h6{
+    font-size: 18px
+  }
+  .app-plan-section h3{
+    font-size: 25px;
+    padding: 0px;
+  }
+  .app-plan-section h5{
+    font-size: 18px;
+    margin-bottom: 20px !important;
+  }
+  .app-plan-section .card-text{
+    font-size: 13px !important;
+  }
+  .app-plan-section .app-plan-btn{
+    margin: 10px 0px !important;
+    font-size: 15px !important;
+  }
+  .teem-section .col-md-3 {
+    flex: 50% !important;
+    max-width: 35%;
+    margin: 35px 54px;
+  }
+  .contact-section h1{
+     font-size: 30px !important;
+  }
+  .contact-section h5{
+     font-size: 20px !important;
+  }
+  .contact-section .col-md-5 h2{
+     font-size: 25px !important;
+  }
+  .contact-section .col-md-5 h5{
+     font-size: 18px !important;
+  }
+  footer h6{
+    font-size: 12px !important;
+  }
+}
